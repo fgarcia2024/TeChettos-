@@ -93,13 +93,13 @@
 
 ## Link de Descargas y de Interés
 - [Intro del juego](https://drive.google.com/file/d/1O21gj3pHyQ64tx0JuGmxtMeLChRX8vSC/view)
-- [Video promocional](URL_de_descarga_video_promocional)
-- [Recursos gráficos](https://github.com/IsseiSenpai/TeChettos-Pruebas/raw/main/ARCHIVOS-INTRO-DelCastellano-V-2.0.3/ARCHIVOS-INTRO-DelCastellano-V-2.0..rar)
+- [Video promocional](https://drive.google.com/file/d/1Q0LzEy5YXj3ne96-mk_NXScqimYStatH/view)
+- [Recursos gráficos](https://github.com/Fatimaxnxw12/TeChettos-/raw/Desarrollo/INTRO-DelCastellano-V-2.0.4/INTRO-DelCastellano-V-2.0.4.rar)
+- [Recursos del video](https://github.com/Fatimaxnxw12/TeChettos-/raw/Desarrollo/Archivos%20del%20video/Video%20promocional%20TeChettos.rar)
 - [Informe curricular de la app](https://github.com/Fatimaxnxw12/TeChettos-/raw/Desarrollo/INFORME/TeChettos.pdf)
 - [Videojuego "DelCastellano" - V.0.2](URL_de_descarga_videojuego)
 - [Código fuente del videojuego](URL_de_descarga_código_fuente)
 - [Documentación del código fuente](https://isseisenpai.github.io/Doxyger/)
-- [Recursos del video](https://github.com/Fatimaxnxw12/TeChettos-/raw/Desarrollo/Archivos%20del%20video)
 
 ## Preguntas Frecuentes  
 <details>
