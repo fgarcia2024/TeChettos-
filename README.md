@@ -122,4 +122,4 @@
   <p align="justify">Si encuentras algún problema técnico o error en el videojuego "DelCastellano", te recomendamos verificar que tu dispositivo cumpla con los requisitos mínimos del sistema. Si el problema persiste, te recomendamos reiniciar el juego y, si es necesario, desinstalar y volver a instalar el juego. Si el problema persiste, por favor, contáctanos a través de nuestra página de soporte en el sitio web para que podamos brindarte asistencia adicional.</p>
 </details>
 
-----
+-----
