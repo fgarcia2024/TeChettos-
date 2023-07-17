@@ -98,7 +98,7 @@
 - [Recursos del video](https://github.com/Fatimaxnxw12/TeChettos-/raw/Desarrollo/Archivos%20del%20video/Video%20promocional%20TeChettos.rar)
 - [Informe curricular de la app](https://github.com/Fatimaxnxw12/TeChettos-/raw/Desarrollo/INFORME/TeChettos.pdf)
 - [Videojuego "DelCastellano" - V.0.2](URL_de_descarga_videojuego)
-- [Package del videojuego](URL_de_descarga_código_fuente)
+- [Package del videojuego](https://github.com/Fatimaxnxw12/TeChettos-/raw/Desarrollo/Package.DelCastellano/DelCastellano.rar)
 - [Documentación del código con Doxygen](https://isseisenpai.github.io/Doxyger/)
 
 ## Preguntas Frecuentes  
