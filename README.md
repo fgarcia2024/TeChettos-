@@ -96,7 +96,7 @@
 - [Video promocional](https://drive.google.com/file/d/1Q0LzEy5YXj3ne96-mk_NXScqimYStatH/view)
 - [Recursos gráficos](https://github.com/Fatimaxnxw12/TeChettos-/raw/Desarrollo/INTRO-DelCastellano-V-2.0.4/INTRO-DelCastellano-V-2.0.4.rar)
 - [Recursos del video](https://github.com/Fatimaxnxw12/TeChettos-/raw/Desarrollo/Archivos%20del%20video/Video%20promocional%20TeChettos.rar)
-- [Informe curricular de la app](https://github.com/Fatimaxnxw12/TeChettos-/raw/Desarrollo/INFORME/TeChettos.pdf)
+- [Informe curricular de la app](https://github.com/Fatimaxnxw12/TeChettos-/raw/Desarrollo/INFORME/TeChettos2.0.pdf)
 - [Videojuego "DelCastellano" - V.0.2](https://github.com/Fatimaxnxw12/TeChettos-/raw/Desarrollo/Prototipo%20App/DelCastellano.apk)
 - [Package del videojuego](https://github.com/Fatimaxnxw12/TeChettos-/raw/Desarrollo/Package.DelCastellano/DelCastellano.rar)
 - [Documentación del código con Doxygen](https://isseisenpai.github.io/Doxyger/)
